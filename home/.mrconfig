@@ -9,7 +9,7 @@ checkout = git clone 'git@bitbucket.org:edgarlab/dotfiles.git' 'dotfiles'
 checkout = git clone 'git@bitbucket.org:edgarlab/smartthings-dotfiles.git' 'smartthings-dotfiles'
 
 [.homesick/repos/rephunter-dotfiles]
-checkout = git clone 'git@bitbucket.org:edgarlab/rephunter-dotfiles.git' 'rephunter-dotfiles'
+checkout = git clone 'git@bitbucket.org:eedgar/rephunter-dotfiles.git' 'rephunter-dotfiles'
 
 [.homesick/repos/myrepos]
 checkout = git clone 'git@github.com:eedgar/myrepos.git' 'myrepos'
